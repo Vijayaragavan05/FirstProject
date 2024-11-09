@@ -4,7 +4,7 @@
 
         a= 15;
 
-        b=20;
+        b=25;
         c=b-a;
         d=c*b;
      System.out.println(d);

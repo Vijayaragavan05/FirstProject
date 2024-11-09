@@ -6,6 +6,7 @@
 
         b=20;
         c=b-a;
-     System.out.println(c);
+        d=c*b;
+     System.out.println(d);
     }
 }
